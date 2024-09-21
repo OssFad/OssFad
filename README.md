@@ -4,6 +4,8 @@
 
 ### ***Data Analyst*** | ***Machine Learning and Data Scientist***
 
+👩🏻‍💻 As an analyst I review data to **identify key insights into a business's customers and ways the data can be used to solve problems. I also communicate this information to company leadership and other stakeholders.**
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ossama-fadloullah-a76335167/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FadloullahO) 
 
