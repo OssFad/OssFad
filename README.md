@@ -2,7 +2,7 @@
 
 # I'm Fadloullah Ossama
 
-### ***Data Scientist & Machine Learning Enthusiast*** | ***Financial Data Analyst*** 
+### ***Data Scientist*** | ***Machine Learning Enthusiast*** | ***Financial Data Analyst*** 
 
 👩🏻‍💻 I’m a results-driven data professional with expertise in **data science**, **financial analysis**, and **machine learning**. My passion lies in transforming complex data into actionable insights that drive business growth and strategic decision-making.
 
