@@ -2,9 +2,11 @@
 
 # I'm Fadloullah Ossama
 
-### ***Data Analyst*** | ***Machine Learning and Data Scientist***
+### ***Data Analyst*** | ***Machine Learning and Data Scientist*** | ***Financial Ananlyst***
 
-👩🏻‍💻 As an analyst I review data to **identify key insights into a business's customers and ways the data can be used to solve problems. I also communicate this information to company leadership and other stakeholders.**
+👩🏻‍💻 I’m a results-driven data professional with expertise in **data science**, **financial analysis**, and **machine learning**. My passion lies in transforming complex data into actionable insights that drive business growth and strategic decision-making.
+
+With hands-on experience in **exploratory data analysis (EDA)**, **machine learning model development**, and **applying advanced analytics in finance and retail sectors**, I bridge the gap between data and decision-making.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ossama-fadloullah-a76335167/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@FadloullahO) 
